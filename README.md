@@ -59,9 +59,11 @@ HTML Tag Remove/Strip
 
 ![HTML Tag Strip](http://i61.tinypic.com/1ptdvn.gif)
 
-SEO Url
+SEO URL (slug)
 
-![SEO Url](http://i59.tinypic.com/25k1ukx.gif)
+since v0.2.0 using the [speakingurl module](http://pid.github.io/speakingurl/)
+
+![SEO URL](http://i59.tinypic.com/25k1ukx.gif)
 
 Other Tools
 
